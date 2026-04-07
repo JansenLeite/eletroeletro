@@ -12,7 +12,7 @@ Material de apoio de estudos para o Curso de Operador de Logística FIC.
 
 # Atividade Avaliativa - Individual
 
-## Assista o vídeo abaixo sobre o DataCenter UOl.
+## Assista o vídeo abaixo sobre o DataCenter UOL.
 
 [Clique aqui para assistir o Vídeo](https://www.youtube.com/watch?v=blnh-bteFU4)
 
