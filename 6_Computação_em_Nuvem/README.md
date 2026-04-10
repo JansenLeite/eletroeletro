@@ -1,5 +1,5 @@
 # Computação em Nuvem
-Material de apoio de estudos para o Curso de Operador de Logística FIC.
+Material de apoio de estudos para o Curso de Técnico em EletroEletrônica.
 
 ## Conhecimentos
 6. Computação em nuvem<br />
